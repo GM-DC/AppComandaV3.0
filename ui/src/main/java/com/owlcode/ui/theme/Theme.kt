@@ -1,4 +1,4 @@
-package com.owlcode.appcomandav3.ui.theme
+package com.owlcode.ui.theme
 
 import android.app.Activity
 import android.os.Build
